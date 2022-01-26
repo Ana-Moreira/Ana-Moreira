@@ -2,7 +2,7 @@
 
 
 
-- 🔭  Hoje trabalho com Front-end e Back-end
+- 🔭  Hoje trabalho com Back-end
 - 🌱  Estudando Java
 
 <div align="center">
